@@ -1,7 +1,7 @@
 # 🚁 ESP32 DJI Tello Drone Controller
 
 <p align="center">
-  <img src="imag/Drone.jpeg" width="500"/>
+  <img src="image/Drone.jpeg" width="500"/>
 </p>
 
 ## Overview
